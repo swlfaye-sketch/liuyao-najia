@@ -1,0 +1,3 @@
+interface:
+  display_name: "六爻装卦"
+  short_description: "京房纳甲装卦、解析与校验；可选接自备大模型做要点梳理"
