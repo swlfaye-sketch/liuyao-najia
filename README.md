@@ -168,6 +168,10 @@ python3 scripts/liuyao_zhuanggua.py --gua "火风鼎" --dong 6 --ganzhi "..." --
 
 **六爻属传统术数，本工具是排盘与规则核对的辅助手段，不具科学预测效力。** 请勿据此替代医疗、法律、投资等专业判断。
 
+## 版本记录
+
+完整更新说明见 [CHANGELOG.md](CHANGELOG.md)。当前版本 **1.4.0**（2026-09-20）。
+
 ## License
 
 MIT
